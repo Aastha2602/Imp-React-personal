@@ -1,0 +1,8 @@
+// commands to run on git bash for pushing code from vs code to a github repo (for the 1st time)
+
+$ git remote add origin https://github.com/Aastha2602/Game1.git
+
+$ git branch -M main
+
+$ git push -u origin main
+
